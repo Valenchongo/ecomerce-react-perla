@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecomerce-react-perla/static/css/main.718f2813.css",
+    "main.css": "/ecomerce-react-perla/static/css/main.3d6971e1.css",
     "main.js": "/ecomerce-react-perla/static/js/main.a8738ad7.js",
     "static/js/787.260bde4a.chunk.js": "/ecomerce-react-perla/static/js/787.260bde4a.chunk.js",
     "index.html": "/ecomerce-react-perla/index.html",
-    "main.718f2813.css.map": "/ecomerce-react-perla/static/css/main.718f2813.css.map",
+    "main.3d6971e1.css.map": "/ecomerce-react-perla/static/css/main.3d6971e1.css.map",
     "main.a8738ad7.js.map": "/ecomerce-react-perla/static/js/main.a8738ad7.js.map",
     "787.260bde4a.chunk.js.map": "/ecomerce-react-perla/static/js/787.260bde4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.718f2813.css",
+    "static/css/main.3d6971e1.css",
     "static/js/main.a8738ad7.js"
   ]
 }
