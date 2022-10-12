@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecomerce-react-perla/static/css/main.d43b254c.css",
-    "main.js": "/ecomerce-react-perla/static/js/main.1fb5485c.js",
+    "main.css": "/ecomerce-react-perla/static/css/main.ce9f5c74.css",
+    "main.js": "/ecomerce-react-perla/static/js/main.0686486a.js",
     "static/js/787.260bde4a.chunk.js": "/ecomerce-react-perla/static/js/787.260bde4a.chunk.js",
     "index.html": "/ecomerce-react-perla/index.html",
-    "main.d43b254c.css.map": "/ecomerce-react-perla/static/css/main.d43b254c.css.map",
-    "main.1fb5485c.js.map": "/ecomerce-react-perla/static/js/main.1fb5485c.js.map",
+    "main.ce9f5c74.css.map": "/ecomerce-react-perla/static/css/main.ce9f5c74.css.map",
+    "main.0686486a.js.map": "/ecomerce-react-perla/static/js/main.0686486a.js.map",
     "787.260bde4a.chunk.js.map": "/ecomerce-react-perla/static/js/787.260bde4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d43b254c.css",
-    "static/js/main.1fb5485c.js"
+    "static/css/main.ce9f5c74.css",
+    "static/js/main.0686486a.js"
   ]
 }
